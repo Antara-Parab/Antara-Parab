@@ -85,6 +85,6 @@
 
 ---
 
-<div align="center">
-  <sub>Designed with ❤️ for <b>Antara Parab</b> • <i>"Always be learning, always be building."</i></sub>
-</div>
+<p align="center">
+  <i>"Passionate about technology, clean code, and continuous learning."</i>
+</p>
