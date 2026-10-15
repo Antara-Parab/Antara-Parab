@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=4000&pause=1000&color=6366F1&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Antara+Parab+%F0%9F%91%8B;IT+Undergrad+%40+VESIT+%F0%9F%8E%93;Aspiring+Software+%26+Web+Developer;Passionate+about+Building+Impactful+Projects" alt="Typing SVG Banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=4000&pause=1000&color=6366F1&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Antara+Parab+%F0%9F%91%8B;B.Tech+IT+%40+VESIT+%F0%9F%8E%93;Aspiring+Software+%26+Web+Developer;Passionate+about+Building+Impactful+Projects" alt="Typing SVG Banner" />
 
   <p align="center">
     <b>Crafting responsive, clean user experiences & exploring modern software engineering.</b>
@@ -25,7 +25,7 @@
 
 ### 💫 About Me
 
-- 🎓 **Education:** Pursuing **B.E. in Information Technology** at **VESIT (Vivekanand Education Society's Institute of Technology)**, Mumbai.
+- 🎓 **Education:** Pursuing **B.Tech in Information Technology** at **VESIT (Vivekanand Education Society's Institute of Technology)**, Mumbai.
 - 💻 **Tech Focus:** Web Development, Responsive UI/UX, and Modern Frontend Design.
 - 🛠️ **DevOps & Tools:** Practicing distributed version control with **Git & GitHub** and collaborative workflows.
 - 🌱 **Currently Exploring:** Advanced JavaScript, React, and Full-Stack Architecture.
