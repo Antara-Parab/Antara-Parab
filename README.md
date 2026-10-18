@@ -71,7 +71,7 @@
 
   <br/>
 
-  <img src="https://streak-stats.demolab.com?user=Antara-Parab&theme=radical&hide_border=true&background=0d1117" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Antara-Parab&theme=radical&hide_border=true&background=0d1117&cache_seconds=1800" alt="GitHub Streak" />
 </div>
 
 ---
@@ -80,6 +80,7 @@
 
 | Repository | Description | Tech |
 | :--- | :--- | :--- |
+| ⚡ **[AnTPDF](https://github.com/TanmayNileshShinde/antpdf)** | Zero-server, 100% in-browser WebAssembly PDF studio with 18+ tools. Co-creator. | `Next.js` `TypeScript` `WASM` `Tailwind` |
 | 🌐 **[antaraparab](https://github.com/Antara-Parab/antaraparab)** | Responsive College Web Portal prototype built with pure CSS 12-column grid system & multi-viewport media queries. | `HTML5` `CSS3` `Responsive UI` |
 | 🛠️ **[DevOps_Exp5_67_D10A](https://github.com/Antara-Parab/DevOps_Exp5_67_D10A)** | DevOps Lab Practical on Distributed Version Control, branching, and team collaboration with Git & GitHub. | `Git` `GitHub` `DevOps` |
 
