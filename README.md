@@ -61,17 +61,17 @@
   <table border="0">
     <tr>
       <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Antara-Parab&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800" alt="Antara's GitHub Stats" />
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Antara-Parab&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=6366F1&icon_color=EC4899&cache_seconds=1800" alt="Antara's GitHub Stats" />
       </td>
       <td>
-        <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Antara-Parab&theme=radical" alt="Top Languages by Commit" />
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Antara-Parab&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=6366F1&cache_seconds=1800" alt="Top Languages" />
       </td>
     </tr>
   </table>
 
   <br/>
 
-  <img src="https://streak-stats.demolab.com?user=Antara-Parab&theme=radical&hide_border=true&timezone=Asia%2FKolkata" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Antara-Parab&theme=radical&hide_border=true&background=0d1117&timezone=Asia%2FKolkata" alt="GitHub Streak" />
 </div>
 
 ---
