@@ -69,7 +69,9 @@
 
 | Repository | Description | Tech |
 | :--- | :--- | :--- |
+| 🎮 **[React Nexus](https://github.com/TanmayNileshShinde/react-nexus)** | 8-in-1 cyber arcade web ecosystem featuring real-time cloud leaderboards & 60 FPS physics engines. Co-creator. | `React` `Firebase RTDB` `Tailwind` `Framer Motion` |
 | ⚡ **[AnTPDF](https://github.com/TanmayNileshShinde/antpdf)** | Zero-server, 100% in-browser WebAssembly PDF studio with 18+ tools. Co-creator. | `Next.js` `TypeScript` `WASM` `Tailwind` |
+| 🎓 **[CollabClass](https://github.com/TanmayNileshShinde/collabnclass)** | Real-time virtual classroom with WebRTC video calling, synchronized canvas & live code execution. Co-creator. | `React` `TypeScript` `WebRTC` `Tailwind` |
 | 🌐 **[antaraparab](https://github.com/Antara-Parab/antaraparab)** | Responsive College Web Portal prototype built with pure CSS 12-column grid system & multi-viewport media queries. | `HTML5` `CSS3` `Responsive UI` |
 | 🛠️ **[DevOps_Exp5_67_D10A](https://github.com/Antara-Parab/DevOps_Exp5_67_D10A)** | DevOps Lab Practical on Distributed Version Control, branching, and team collaboration with Git & GitHub. | `Git` `GitHub` `DevOps` |
 
