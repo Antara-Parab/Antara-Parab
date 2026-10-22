@@ -36,22 +36,11 @@
 
 ### 🛠️ Tech Stack & Tools
 
-<div align="center">
-
-  #### 🌐 Frontend & Languages
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" alt="Frontend skills" />
-
-  <br/>
-
-  #### ⚙️ Developer Tools & Systems
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" alt="Tools & Systems" />
-
-  <br/>
-
-  #### 🚀 Currently Learning & Exploring
-  <img src="https://skillicons.dev/icons?i=react,nodejs,python,figma" alt="Learning" />
-
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,bootstrap&theme=dark" alt="Frontend & UI" />
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,python,git,github,vscode,linux,figma&theme=dark" alt="Backend, Systems & Tools" />
+</p>
 
 ---
 
