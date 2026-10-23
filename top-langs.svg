@@ -67,35 +67,35 @@
         <rect x="0" y="0" width="250" height="8" fill="white" rx="5"/>
       </mask>
       
-      <rect mask="url(#rect-mask)" class="lang-progress" x="0.00" y="0" width="226.10" height="8" fill="#3178c6" />
-      <rect mask="url(#rect-mask)" class="lang-progress" x="226.10" y="0" width="12.67" height="8" fill="#663399" />
-      <rect mask="url(#rect-mask)" class="lang-progress" x="238.77" y="0" width="7.88" height="8" fill="#e34c26" />
-      <rect mask="url(#rect-mask)" class="lang-progress" x="246.65" y="0" width="2.98" height="8" fill="#f1e05a" />
+      <rect mask="url(#rect-mask)" class="lang-progress" x="0.00" y="0" width="228.00" height="8" fill="#3178c6" />
+      <rect mask="url(#rect-mask)" class="lang-progress" x="228.00" y="0" width="13.37" height="8" fill="#663399" />
+      <rect mask="url(#rect-mask)" class="lang-progress" x="241.37" y="0" width="8.31" height="8" fill="#e34c26" />
+      <rect mask="url(#rect-mask)" class="lang-progress" x="249.68" y="0" width="0.27" height="8" fill="#384d54" />
 
       <!-- Language Legend Grid -->
       <g transform="translate(0, 25)">
         <g transform="translate(0, 0)">
           <g class="stagger" style="animation-delay: 450ms">
             <circle cx="5" cy="6" r="5" fill="#3178c6" />
-            <text x="15" y="10" class="lang-name">TypeScript 90.44%</text>
+            <text x="15" y="10" class="lang-name">TypeScript 91.20%</text>
           </g>
         </g>
         <g transform="translate(135, 0)">
           <g class="stagger" style="animation-delay: 600ms">
             <circle cx="5" cy="6" r="5" fill="#663399" />
-            <text x="15" y="10" class="lang-name">CSS 5.07%</text>
+            <text x="15" y="10" class="lang-name">CSS 5.35%</text>
           </g>
         </g>
         <g transform="translate(0, 25)">
           <g class="stagger" style="animation-delay: 750ms">
             <circle cx="5" cy="6" r="5" fill="#e34c26" />
-            <text x="15" y="10" class="lang-name">HTML 3.15%</text>
+            <text x="15" y="10" class="lang-name">HTML 3.33%</text>
           </g>
         </g>
         <g transform="translate(135, 25)">
           <g class="stagger" style="animation-delay: 900ms">
-            <circle cx="5" cy="6" r="5" fill="#f1e05a" />
-            <text x="15" y="10" class="lang-name">JavaScript 1.19%</text>
+            <circle cx="5" cy="6" r="5" fill="#384d54" />
+            <text x="15" y="10" class="lang-name">Dockerfile 0.11%</text>
           </g>
         </g>
       </g>
