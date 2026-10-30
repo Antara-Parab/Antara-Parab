@@ -50,7 +50,7 @@
   <table border="0">
     <tr>
       <td>
-        <img height="180em" src="https://github-stats-extended.vercel.app/api?username=Antara-Parab&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=6366F1&icon_color=EC4899&cache_seconds=1800" alt="Antara's GitHub Stats" />
+        <img height="180em" src="https://github-stats-extended.vercel.app/api?username=Antara-Parab&show_icons=true&show=reviews&theme=radical&hide_border=true&bg_color=0d1117&title_color=6366F1&icon_color=EC4899&line_height=20&cache_seconds=1800" alt="Antara's GitHub Stats" />
       </td>
       <td>
         <img height="180em" src="./top-langs.svg" alt="Top Languages" />
