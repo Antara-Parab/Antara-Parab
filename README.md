@@ -60,7 +60,7 @@
 
   <br/>
 
-  <img src="https://raw.githubusercontent.com/Antara-Parab/Antara-Parab/main/streak.svg?v=6" alt="GitHub Streak" />
+  <img src="https://raw.githubusercontent.com/Antara-Parab/Antara-Parab/main/streak.svg?v=8" alt="GitHub Streak" />
 </div>
 
 ---
