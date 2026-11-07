@@ -78,5 +78,5 @@
 ---
 
 <p align="center">
-  <i>"Passionate about technology, clean code, and continuous learning."</i>
+  <i>"Passionate about technology, clean code, and continuous learning"</i>
 </p>
