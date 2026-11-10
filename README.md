@@ -60,7 +60,7 @@
 
   <br/>
 
-  <img src="https://streak-stats.demolab.com?user=Antara-Parab&theme=radical&hide_border=true&timezone=Asia/Kolkata&v=12" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Antara-Parab&theme=radical&hide_border=true&timezone=Asia/Kolkata&v=14" alt="GitHub Streak" />
 </div>
 
 ---
